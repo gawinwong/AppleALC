@@ -14,6 +14,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>ALC1220 Hasee Z7-CT7Pro</string>
+				<key>Id</key>
+				<integer>52</integer>
+				<key>Path</key>
+				<string>layout52.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Toleda - Realtek ALC1220, 5/6 audio ports, native: 2 inputs, 3/4 outputs+front panel+SPDIF/Optical</string>
 				<key>Id</key>
 				<integer>1</integer>
@@ -183,6 +191,14 @@
 		</array>
 		<key>Platforms</key>
 		<array>
+			<dict>
+				<key>Comment</key>
+				<string>ALC1220 Hasee Z7-CT7Pro</string>
+				<key>Id</key>
+				<string>52</string>
+				<key>Path</key>
+				<string>Platforms52.xml.zlib</string>
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Toleda - Realtek ALC1220</string>

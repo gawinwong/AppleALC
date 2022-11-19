@@ -32,17 +32,17 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
-					<string>Custom ALC282 Lenovo-IdeaPad-Z510 by hoseinrez</string>
+					<string>Custom ALC1220 For Hasee Z7-CT7Pro</string>
 					<key>CodecID</key>
-					<integer>283902594</integer>
+					<integer>283906592</integer>
 					<key>ConfigData</key>
-					<data>ASccEAEnHQEBJx6mAScfkAFHHCABRx0BAUceFwFHH5ABRwwCAXcc8AF3HQABdx4AAXcfQAGHHPABhx0AAYceAAGHH0ABpxzwAacdAAGnHgABpx9AAbcc8AG3HQABtx4AAbcfQAHXHPAB1x0AAdceAAHXH0AB5xzwAecdAAHnHgAB5x9AAZccMAGXHRABlx6BAZcfBAIXHEACFx0QAhceIQIXHwQ=</data>
+					<data>ASccQAEnHQEBJx6jAScfkAFHHCABRx0QAUceIQFHHwQBRwwCAVccAAFXHQABVx4AAVcfQAFnHPABZx0RAWceEQFnH0EBdxzwAXcdEQF3HhEBdx9BAYccUAGHHRABhx6hAYcfBAGXHPABlx0QAZceEQGXHwEBpxwQAacdAQGnHhMBpx+QAbcc8AG3HREBtx4RAbcfQQG3DAIB1xwtAdcdtQHXHrgB1x9AAeccMAHnHREB5x5FAecfBA==</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
-					<integer>69</integer>
+					<integer>52</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAg==</data>
+					<data>AUcMAgG3DAI=</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
