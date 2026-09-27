@@ -18,8 +18,8 @@ jobs:
     env:
       JOB_TYPE: BUILD
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         with:
           repository: acidanthera/MacKernelSDK
           path: MacKernelSDK
@@ -34,7 +34,7 @@ jobs:
       - run: xcodebuild -jobs 1 -configuration Release -arch ACID32 -arch x86_64
 
       - name: Upload to Artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: Artifacts
           path: build/*/*.zip
@@ -53,8 +53,8 @@ jobs:
     env:
       JOB_TYPE: ANALYZE
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         with:
           repository: acidanthera/MacKernelSDK
           path: MacKernelSDK
@@ -73,7 +73,8 @@ jobs:
     runs-on: macos-12
     env:
       JOB_TYPE: COVERITY
-    if: github.repository_owner == 'acidanthera' && github.event_name != 'pull_request'
+    # Disabled: macos-12 runners are retired and the job stays queued forever
+    if: false && github.repository_owner == 'acidanthera' && github.event_name != 'pull_request'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
