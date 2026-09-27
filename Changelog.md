@@ -4,6 +4,11 @@ AppleALC Changelog
 - Added ALC255/ALC3234 layout-id 89 for Dell OptiPlex 3060 MFF by Lorys89
 - Added ALC298 layout-id 98 for Lenovo Yoga 9 15IMH5 by sunbo
 - Added ALC269 layout-id 120 for Infinix XBOOK B15 by kodeaqua
+- Improved ALC257 layout-id 86 for Lenovo T480 by armenio
+- Added ALC255 layout-id 16 for Gigabyte Aorus 15G (warm-reboot/sleep audio fix) by Andergraw
+- Added ALC897 layout-id 97 for Asus B560M TUF Gaming Plus (7.1/5.1.2 surround) by hoangtu92
+- Added ALCS1220A layout-id 88 for MSI MPG Z390 Gaming Pro Carbon AC by TahsinFaiyaz30
+- Added ALC289 layout-id 13 pin config for node 0x17 (XPS 15 9500 woofers) by MAXZVER
 
 #### v1.9.7
 - Added ALC897 layout-id 31 for MSI X670E Gaming WIFI by yandong31
