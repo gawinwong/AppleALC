@@ -34,7 +34,7 @@ jobs:
       - run: xcodebuild -jobs 1 -configuration Release -arch ACID32 -arch x86_64
 
       - name: Upload to Artifacts
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: Artifacts
           path: build/*/*.zip
