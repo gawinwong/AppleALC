@@ -72,7 +72,7 @@
 				<key>Comment</key>
 				<string>Realtek ALC255 Gigabyte Brix BRI5(H) by Najdanovic Ivan</string>
 				<key>Id</key>
-				<string>15</string>
+				<integer>15</integer>
 				<key>Path</key>
 				<string>layout15.xml.zlib</string>
 			</dict>
@@ -200,7 +200,7 @@
 				<key>Comment</key>
 				<string>Bhavin dell 5559 alc255</string>
 				<key>Id</key>
-				<string>96</string>
+				<integer>96</integer>
 				<key>Path</key>
 				<string>layout96.xml.zlib</string>
 			</dict>
