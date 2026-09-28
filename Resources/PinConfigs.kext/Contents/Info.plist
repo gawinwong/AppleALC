@@ -8649,6 +8649,24 @@
 					<true/>
 				</dict>
 				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>Custom ALC1220 For Hasee Z7-CT7Pro</string>
+					<key>CodecID</key>
+					<integer>283906592</integer>
+					<key>ConfigData</key>
+					<data>ASccQAEnHQEBJx6jAScfkAFHHCABRx0QAUceIQFHHwQBRwwCAVccAAFXHQABVx4AAVcfQAFnHPABZx0RAWceEQFnH0EBdxzwAXcdEQF3HhEBdx9BAYccUAGHHRABhx6hAYcfBAGXHPABlx0QAZceEQGXHwEBpxwQAacdAQGnHhMBpx+QAbcc8AG3HREBtx4RAbcfQQG3DAIB1xwtAdcdtQHXHrgB1x9AAeccMAHnHREB5x5FAecfBA==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>52</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgG3DAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
 					<key>CodecID</key>
 					<integer>283904768</integer>
 					<key>CodecName</key>
